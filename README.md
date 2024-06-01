@@ -37,14 +37,14 @@
 # Trophy
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=teru12012000&theme=onedark"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=ShionTerunaga&theme=onedark"/>
 </div>
 
 # Graph
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teru12012000&theme=github_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teru12012000&theme=github_dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teru12012000&theme=github_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teru12012000&theme=github_dark&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShionTerunaga&theme=github_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShionTerunaga&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShionTerunaga&theme=github_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShionTerunaga&theme=github_dark&utcOffset=8"/>
  </div>
 
 
