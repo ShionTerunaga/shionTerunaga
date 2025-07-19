@@ -52,7 +52,7 @@
 
 <div align="center">
 
- <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,rust,py,go,lua,dart,html,css,nodejs,bun,express,react,nextjs,flask,sqlite,firebase,vercel,aws,flutter,raspberrypi,linux,vscode,git,github,md,latex,docker,postman"/>
+ <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,rust,py,go,lua,dart,html,css,nodejs,bun,express,react,nextjs,flask,sqlite,firebase,vercel,aws,flutter,swift,raspberrypi,linux,vscode,git,github,md,latex,docker,postman"/>
 </div>
 
 # CONTRIBUTE
