@@ -34,12 +34,6 @@
  </table>
  </div>
 
-# Trophy
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=ShionTerunaga&theme=onedark"/>
-</div>
-
 # Graph
 
 <div align="center">
